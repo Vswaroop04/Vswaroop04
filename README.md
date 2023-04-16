@@ -79,6 +79,8 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
+  
+  [![](https://visitcount.itsvg.in/api?id=vswaroop04&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
 
