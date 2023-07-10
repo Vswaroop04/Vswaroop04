@@ -9,7 +9,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a BlockChain and Full Stack Web developer
+* 💻 I'm a Full Stack Blocakchain developer
 * 🎓 I'm an UnderGrad Computer Science Student Of IIITV-ICD
 * 🌐 You can see some of my projects on [my portfolio](https://www.vswaroop04.live)
 
