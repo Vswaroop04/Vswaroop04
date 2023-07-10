@@ -14,4 +14,3 @@
 * 🌐 You can see some of my projects on [my portfolio](https://www.vswaroop04.live)
 
   
-  [![](https://visitcount.itsvg.in/api?id=vswaroop04&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
