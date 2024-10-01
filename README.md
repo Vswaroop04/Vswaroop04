@@ -10,7 +10,6 @@
 ## 📖 About me
 
 * 💻 I'm a Full Stack Blocakchain developer
-* 🎓 I'm an Final Year Computer Science Student Of IIITV-ICD
-* 🌐 You can see some of my projects on [my portfolio](https://www.vswaroop04.live)
+* 🌐 You can see some of my projects on [my portfolio](https://www.vswaroop04.site)
 
   
