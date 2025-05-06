@@ -9,7 +9,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a Full Stack Blocakchain developer
+* 💻 I'm a Full Stack Blockchain developer
 * 🌐 You can see some of my projects on [my portfolio](https://www.vswaroop04.site)
 
   
