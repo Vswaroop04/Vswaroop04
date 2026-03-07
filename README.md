@@ -5,3 +5,9 @@
 > 22
 > i write code that rust calls unsafe...
 ```
+
+
+### Projects I Maintain
+- **[link-guardian](https://github.com/Vswaroop04/link-guardian)** —  A tool to scan GitHub repositories and websites for broken links 
+- **[gitquick](https://github.com/Vswaroop04/git-quick)** —  A CLI that speeds up repetitive Git commands 
+- **[devcheck](https://github.com/Vswaroop04/devcheck)** — A CLI tool that answers one question: "Is my dev environment sane right now?"
