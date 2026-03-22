@@ -8,7 +8,9 @@
 
 
 ### Projects I Maintain
-- **[InframetAI](https://github.com/Vswaroop04/inframetai)** —   A drop-in SDK that tracks, analyzes, and helps you reduce your AI spending
+
+- **[Migrion](https://github.com/Vswaroop04/migrion)** —   A schema diff and migration engine that treats database changes like a graph, enabling deterministic migrations, drift detection, and safe CI/CD workflows.
+- **[InframetAI](https://github.com/Vswaroop04/inframetai)** —  A drop-in SDK that tracks, analyzes, and helps you reduce your AI spending
 - **[link-guardian](https://github.com/Vswaroop04/link-guardian)** —  A tool to scan GitHub repositories and websites for broken links 
 - **[gitquick](https://github.com/Vswaroop04/git-quick)** —  A CLI that speeds up repetitive Git commands 
 - **[devcheck](https://github.com/Vswaroop04/devcheck)** — A CLI tool that answers one question: "Is my dev environment sane right now?"
